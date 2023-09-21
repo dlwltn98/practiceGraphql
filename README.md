@@ -11,4 +11,4 @@ Over-fatching, Under-fatching 등의 REST API의 한계를 극복하기 위해 �
 <br/>
 
 블로그에내용 정리 : 
-https://dlwltn98.tistory.com/24
+https://dlwltn98.tistory.com/category/GraphQL
